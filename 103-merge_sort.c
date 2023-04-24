@@ -1,5 +1,7 @@
 #include "sort.h"
 
+/* Nick22 */
+
 void merge_subarr(int *subarr, int *buff, size_t front, size_t mid,
 		size_t back);
 void merge_sort_recursive(int *subarr, int *buff, size_t front, size_t back);
